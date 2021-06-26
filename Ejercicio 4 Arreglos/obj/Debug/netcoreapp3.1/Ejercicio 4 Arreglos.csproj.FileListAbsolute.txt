@@ -1,0 +1,4 @@
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 Arreglos\obj\Debug\netcoreapp3.1\Ejercicio 4 Arreglos.csprojAssemblyReference.cache
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 Arreglos\obj\Debug\netcoreapp3.1\Ejercicio 4 Arreglos.AssemblyInfoInputs.cache
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 Arreglos\obj\Debug\netcoreapp3.1\Ejercicio 4 Arreglos.AssemblyInfo.cs
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 Arreglos\obj\Debug\netcoreapp3.1\Ejercicio 4 Arreglos.csproj.CoreCompileInputs.cache
